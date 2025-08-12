@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple HTML page.</p>
+
+    <h2>About Me</h2>
+    <p>I am learning HTML!</p>
+
+    <h3>Links</h3>
+    <ul>
+        <li><a href="https://www.google.com" target="_blank">Visit Google</a></li>
+        <li><a href="mailto:example@example.com">Send me an email</a></li>
+    </ul>
+
+    <h3>Image</h3>
+    <img src="images.jpg" alt="images.jpg">
+
+    <footer>
+        <p>&copy; 2025 My Website</p>
+    </footer>
+</body>
+</html>
